@@ -12,26 +12,54 @@
 
 <br/>
 
-<!-- TOOLS & LANGUAGES -->
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>
-</div>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://github.com/eagocela"><img width="32px" alt="Github" title="Youtube" src="https://img.icons8.com/glyph-neue/344/FC438D/source-code.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/eagocela"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/344/FC438D/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/eagocela/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/344/FC438D/instagram.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/eagocela/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-filled/344/FC438D/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/eagocela/eagocela/blob/main/CV.pdf"><img width="32px" alt="Resume" title="Resume" src="https://img.icons8.com/ios-filled/344/FC438D/open-resume.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/eagocela"><img width="32px" alt="Telegram" title="Telegram" src="https://img.icons8.com/ios-filled/344/FC438D/telegram-app.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.hackerrank.com/elkagocela" alt="Hackerrank" title="Hackerrank"><img width="32px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/FC438D/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/eagocela"><img width="32px" alt="Dev.to" title="eagocela Dev.to" src="https://img.icons8.com/windows/344/FC438D/dev.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/eagocela"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/FC438D/external-ko-fi-funding-user-and-getting-support-from-people-who-love-your-work-logo-bold-tal-revivo.png"/></a>
+</p>
 
 <br/>
 
 <!-- 📊 MY STATS -->
 
+<h2 align="center"></h2>
+
+<br/>
+<br/>
+
+<!-- TOOLS & LANGUAGES -->
+
 <div align="center">
-    <h2>My Stats</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="Tailwind" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>
+</div>
+
+<br/>
+<br/>
+
+ <div align="center">   
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=eagocela&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagocela&langs_count=8&layout=compact&theme=radical&hide_border=true" height="180px"/></a>
     <br/>
@@ -44,20 +72,3 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/eagocela"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/344/twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/eagocela"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://www.iconsdb.com/icons/preview/color/FC438D/coffee-xxl.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
