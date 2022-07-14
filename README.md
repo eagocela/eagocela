@@ -35,18 +35,19 @@
 
 <br/>
 
-<!-- 📊 MY STATS -->
+***
 
-<h2 align="center"></h2>
-
-<br/>
 <br/>
 
 <!-- TOOLS & LANGUAGES -->
 
 <div align="center">
+  <h3>What I'm Working With</h3>
+  
+  <br/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&#8287;&#8287;&#8287;&#8287;&#8287;
@@ -57,17 +58,16 @@
 </div>
 
 <br/>
-<br/>
 
  <div align="center">   
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=eagocela&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagocela&langs_count=8&layout=compact&theme=radical&hide_border=true" height="180px"/></a>
     <br/>
     <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Elka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eagocela&theme=redical&hide_border=true" height="315px" /></a> <br/>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Elka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eagocela&theme=redical&hide_border=true" height="295px" /></a> <br/>
      <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Elka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eagocela&theme=radical&hide_border=true" height="180"/>
   </a><br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
  </div>
 
 <br/>
