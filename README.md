@@ -31,7 +31,7 @@
 <!-- 📊 MY STATS -->
 
 <div align="center">
-    <h2>📊 My Stats</h2>
+    <h2>My Stats</h2>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=eagocela&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagocela&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
     <br/>
