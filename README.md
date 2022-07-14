@@ -32,12 +32,12 @@
 
 <div align="center">
     <h2>My Stats</h2>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=eagocela&show_icons=true&count_private=true&theme=radical&hide_border=true" height="170px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagocela&langs_count=8&layout=compact&theme=radical&hide_border=true" height="170px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=eagocela&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagocela&langs_count=8&layout=compact&theme=radical&hide_border=true" height="180px"/></a>
     <br/>
     <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Elka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eagocela&theme=redical&hide_border=true" height="315px" /></a> <br/>
-     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Elka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eagocela&theme=radical&hide_border=true" height="170"/>
+     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Elka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eagocela&theme=radical&hide_border=true" height="180"/>
   </a><br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  </div>
