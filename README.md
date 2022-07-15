@@ -30,7 +30,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/eagocela"><img width="32px" alt="Dev.to" title="eagocela Dev.to" src="https://img.icons8.com/windows/344/FC438D/dev.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/eagocela"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/FC438D/external-ko-fi-funding-user-and-getting-support-from-people-who-love-your-work-logo-bold-tal-revivo.png"/></a>
+  <a href="https://ko-fi.com/eagocela"><img width="32px" alt="Ko-fi" title="Ko-fi" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/FC438D/external-ko-fi-funding-user-and-getting-support-from-people-who-love-your-work-logo-bold-tal-revivo.png"/></a>
 </p>
 
 <br/>
