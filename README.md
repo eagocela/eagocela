@@ -4,11 +4,18 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barlow&size=30&duration=4000&color=F7D748&center=true&vCenter=true&lines=Welcome+to+My+Github" /></a>
- </div>
  
  <br/>
+ 
+  <p style="padding:10px">I'm a licensed radiographer from the Philippines trying my hand at web development. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. I love designing and creating things. Recently, figuring out how websites and apps work has really piqued my interest.</p>
 
-<p align="center">I am a design-minded developer with a background in radiologic technology. Experienced in JavaScript-based programming, especially React, as well as Ruby on Rails. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge.</p>
+  <p>I started early this year with HTML and CSS, making simple static webpages and expanding my knowledge over time. I then moved on to Javascript to create more dynamic websites. During this time, I also learned React to broaden my knowledge and skill to make web apps as well. I was recently picked up Ruby and Ruby on Rails as I try to extend my understanding on the backend stuff.</p>
+
+  <p>When I'm not developing and coding on my free time, you can find me watching Netflix, listening to music, trying to learn a new language, or playing with my cats. I also plan on creating blog posts about everything I've learned so far. Hopefully, you'll see a list of what I am up to on my DEV.to some time in the future.</p>
+
+  <p>I'm really curious where this journey will lead me. If you found value in something I have created, please feel free to collaborate on my repos, send a tip , or give some ♥ on DEV.to/eagocela.</p>
+  
+ </div>
 
 <br/>
 
