@@ -33,7 +33,9 @@ I'm really curious where this journey will lead me. If you found value in someth
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/eagocela"><img width="32px" alt="Telegram" title="Telegram" src="https://img.icons8.com/ios-filled/344/FC438D/telegram-app.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.hackerrank.com/elkagocela" alt="Hackerrank" title="Hackerrank"><img width="32px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/FC438D/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/></a>
+  <a href="https://www.hackerrank.com/elkagocela" alt="Hackerrank" title="Hackerrank"><img width="32px" src="https://img.icons8.com/ios-filled/344/FC438D/codepen.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://codepen.io/eagocela" alt="CodePen" title="CodePen"><img width="32px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/FC438D/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/eagocela"><img width="32px" alt="Dev.to" title="eagocela Dev.to" src="https://img.icons8.com/windows/344/FC438D/dev.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
